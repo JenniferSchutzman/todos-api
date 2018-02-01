@@ -1,0 +1,23 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferSchutzman/todos-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferSchutzman/todos-api/issues"
+  },
+  "homepage": "https://github.com/JenniferSchutzman/todos-api#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ramda": "^0.25.0"
+  }
+}
